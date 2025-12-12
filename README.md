@@ -3,7 +3,7 @@
 Bu proje, bir bankanın müşteri verilerini kullanarak müşteri terk etme (churn) olasılıklarını ve risk faktörlerini analiz etmek amacıyla hazırlanmıştır.
 
 ## 📂 Proje İçeriği
-Analiz kapsamında 10.000+ müşterinin verisi incelenmiş ve aşağıdaki faktörlere göre raporlama yapılmıştır:
+Analiz kapsamında 10.000 müşterinin verisi incelenmiş ve aşağıdaki faktörlere göre raporlama yapılmıştır:
 - **Kredi Skoru (Credit Score):** Müşterilerin finansal sağlığı.
 - **Risk Skoru:** Müşterilerin bankayı terk etme riskine göre sınıflandırılması.
 - **Demografik Analiz:** Yaş, coğrafya ve cinsiyet bazlı dağılımlar.
